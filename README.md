@@ -1,4 +1,4 @@
-# Project Zeppelin / GDG DevFest 2014 site template
+# Implementacion del Proyecto Zeppelin / GDG DevFest 2015
 
 ### About 
 Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes. 
