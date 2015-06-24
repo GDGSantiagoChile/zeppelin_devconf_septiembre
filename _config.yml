@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG Santiago Chile Noders Startupchile DevFest Septiembre 2015"
+title: "GDG Santiago Chile Noders Startupchile DevCon Septiembre 2015"
 email: "gdgsantiagochile@gmail.com"
-description: "DevFest Septiembre 2015"
+description: "DevCon Septiembre 2015"
 baseurl: "/zeppelin_devconf_septiembre"
 url: "http://gdgsantiagochile.github.io"
 permalink: "/blog/:title"
@@ -56,9 +56,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG-Noders-StartupChile DevFest <typeout> 2015"
+heroTitle: "DevCon <typeout> 2015"
 eventDate: "7 - 8 - 9 Septiebre, 2015"
-typeoutTextValues: '"Charlas", "Hackaton", "Networking","Latino America", "Chile", "Santiago"'
+typeoutTextValues: '"Convención", "Charlas", "Hackaton", "Networking","Latin America", "Chile", "Santiago"'
 typeoutFallback: "Sesiones"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
